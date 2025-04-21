@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Multi User GPT Chat](https://github.com/sinedd777/Web-App-Multi-User-GPT-Chat)
 
-
 - 👯 I’m looking to collaborate on [Resume Reviewer](https://github.com/sinedd777/resume-reviewer)
 
-
-- 👨‍💻 Hosting my projects here [https://portfolio-git-main-sinedd777s-projects.vercel.app/](https://portfolio-git-main-sinedd777s-projects.vercel.app/)
+- 👨‍💻 Hosting my projects [here](https://portfolio-git-main-sinedd777s-projects.vercel.app/)
 
 - 📫 You can reach me @ **gnolas35@asu.edu**
 
-- 📄 Resume [https://maroon-isa-92.tiiny.site/](https://maroon-isa-92.tiiny.site/)
+- 📄 [Resume](https://drive.google.com/file/d/1QWZa9UhxmIx7cG6WXaQAQcpN9_B3MXRi/view)
 
 ___
 # 💻 Tech Stack:
