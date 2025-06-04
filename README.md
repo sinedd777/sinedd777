@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20sinedd777&fontColor=ffffff&animation=fadeIn&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Gaurang&fontColor=ffffff&animation=fadeIn&textBg=false)
 ---
 
 - 👨‍💻 Hosting my projects [here](https://portfolio-git-main-sinedd777s-projects.vercel.app/)
