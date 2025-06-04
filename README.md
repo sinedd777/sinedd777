@@ -1,15 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20sinedd777&fontColor=ffffff&animation=fadeIn&textBg=false)
 ---
 
-- 🔭 I’m currently working on [Multi User GPT Chat](https://github.com/sinedd777/Web-App-Multi-User-GPT-Chat)
-
-- 👯 I’m looking to collaborate on [Resume Reviewer](https://github.com/sinedd777/resume-reviewer)
-
 - 👨‍💻 Hosting my projects [here](https://portfolio-git-main-sinedd777s-projects.vercel.app/)
 
 - 📫 You can reach me @ **gnolas35@asu.edu**
 
-- 📄 [Resume](https://drive.google.com/file/d/1QWZa9UhxmIx7cG6WXaQAQcpN9_B3MXRi/view)
+- 📄 [Resume](https://drive.google.com/file/d/1SLWfk5_rsN6kZWCLrMkCnOdu2OEgEXTW/view)
 
 ___
 # 💻 Tech Stack:
