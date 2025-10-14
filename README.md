@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Gaurang&fontColor=ffffff&animation=fadeIn&textBg=false)
----
 
-- 👨‍💻 Hosting my projects [here](https://portfolio-git-main-sinedd777s-projects.vercel.app/)
+- 👨‍💻 Hosting my projects [here](https://www.gaurang.run/)
 
 - 📫 You can reach me @ **gnolas35@asu.edu**
 
